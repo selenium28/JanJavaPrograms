@@ -36,6 +36,8 @@ public class DataTypesClass {   // class body
 		// 4. Boolean
 		// What is the return type of Boolean?
 		// True or False
+		// Is true & false are values or keywords?
+		// Yes true & false are vales but they are also keywords in Java.
 		boolean b1 = true;
 		boolean b2 = false;
 		
