@@ -10,7 +10,7 @@ public class CarClass {  // Parent Class
 		System.out.println("CarClass---- Safty");
 	}
 
-	public void whiteColor() {
+	public void whiteColor(int a, int b) {
 		System.out.println("CarClass---- WhiteColor");
 	}
 

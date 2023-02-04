@@ -8,7 +8,7 @@ public class RunCarClass {
 		objNexonCar.petrol();
 		objNexonCar.safty();
 		objNexonCar.start();
-		objNexonCar.whiteColor();   
+		objNexonCar.whiteColor(10,20);   
 		
 		CarClass objCarClass = new CarClass();
 		objCarClass.petrol();

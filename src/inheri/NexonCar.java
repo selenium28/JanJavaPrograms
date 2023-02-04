@@ -11,7 +11,7 @@ public class NexonCar extends CarClass{ // child class   --> IS-A Relationship
 		System.out.println("NexonCar---> SeatCover");
 	}
 	
-	public void whiteColor() {
+	public void whiteColor(int a, int b) {
 		System.out.println("NexonCar---> whiteColor");
 	}
 
